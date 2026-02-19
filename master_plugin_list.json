@@ -152,7 +152,7 @@
     "pluginIcon": "",
     "pluginVT": "https://www.virustotal.com/gui/file/b1f6fb98de82c69f4ca5fc6d83764c3f94481cf0f895ddf7537653254e611978/details",
     "pluginHash": "b1f6fb98de82c69f4ca5fc6d83764c3f94481cf0f895ddf7537653254e611978",
-    "pluginStars": "11"
+    "pluginStars": "12"
   },
   {
     "pluginName": "EDMC-Pioneer",
@@ -208,19 +208,19 @@
     "pluginIcon": "https://raw.githubusercontent.com/SweetJonnySauce/EDMCModernOverlay/refs/heads/main/extras/EDMCModernOverlay.ico",
     "pluginVT": "https://github.com/SweetJonnySauce/EDMCModernOverlay/releases/download/0.7.6/vt-transparency.html",
     "pluginHash": "",
-    "pluginStars": "33"
+    "pluginStars": "35"
   },
   {
     "pluginName": "GalaxyGPS",
-    "pluginVer": "1.5.0",
-    "pluginZip": "https://github.com/Fenris159/EDMC_GalaxyGPS/releases/download/1.5.0/EDMC_GalaxyGPS_150.zip",
+    "pluginVer": "1.5.2",
+    "pluginZip": "https://github.com/Fenris159/EDMC_GalaxyGPS/releases/download/1.5.2/EDMC_GalaxyGPS_152.zip",
     "autoUpdateEnabled": false,
     "autoInstallEnabled": false,
     "pluginAuthors": [
       "Fenris159"
     ],
     "pluginMainLink": "https://github.com/Fenris159/EDMC_GalaxyGPS",
-    "pluginLastUpdate": "2026-01-26",
+    "pluginLastUpdate": "2026-02-18",
     "pluginDirName": "EDMC_GalaxyGPS",
     "pluginCategory": [
       "Navigation",
@@ -228,12 +228,12 @@
       "Utility"
     ],
     "pluginDesc": "Route planning and fleet carrier management. Import Spansh routes, track waypoints, manage carriers via CAPI, 20+ languages.",
-    "pluginLastTestedEDMC": "6.1.1",
+    "pluginLastTestedEDMC": "6.1.2",
     "pluginRequirements": [],
     "pluginLicense": "MIT",
     "pluginIcon": "",
     "pluginVT": "",
-    "pluginHash": "c1387039b7e86e2e325f8e67352cc350db1ea98dc1ce9f51cdd27a0d96175eb0",
+    "pluginHash": "cfd848da77daaf62499a92f9643cb8c8304e1238f4687daee7691df5ba05aed3",
     "pluginStars": "4"
   },
   {
