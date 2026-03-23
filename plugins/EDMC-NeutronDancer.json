@@ -1,19 +1,19 @@
   {
     "pluginName": "EDMC-NeutronDancer",
-    "pluginVer": "1.7.0",
-    "pluginZip": "https://github.com/dwomble/EDMC-NeutronDancer/releases/download/v1.7.0/EDMC-NeutronDancer.zip",
+    "pluginVer": "1.8.0",
+    "pluginZip": "https://github.com/dwomble/EDMC-NeutronDancer/releases/download/v1.8.0/EDMC-NeutronDancer.zip",
     "autoUpdateEnabled": true,
     "autoInstallEnabled": false,
     "pluginAuthors": ["dwomble"],
     "pluginMainLink": "https://github.com/dwomble/EDMC-NeutronDancer",
-    "pluginLastUpdate": "2026-02-12",
+    "pluginLastUpdate": "2026-03-09",
     "pluginDirName": "EDMC-NeutronDancer",
     "pluginCategory": ["Navigation", "Exploration"],
-    "pluginDesc": "Simplifies and automates plotting and following Spansh Galaxy, Neutron, and other routes.",
-    "pluginLastTestedEDMC": "6.1.0",
+    "pluginDesc": "The easiest way to use Spansh' sophisticated Galaxy Plotter from within EDMC. Supports Galaxy, Neutron, and other Spansh routes. Includes overlay, hotkey, and chat command support along with jump statistics, cooldown timers, and refuel notifications.",
+    "pluginLastTestedEDMC": "6.1.2",
     "pluginRequirements": [],
     "pluginLicense": "MIT License",
     "pluginIcon": "",
-    "pluginVT": "https://www.virustotal.com/gui/file/b1f6fb98de82c69f4ca5fc6d83764c3f94481cf0f895ddf7537653254e611978/details",
-    "pluginHash": "b1f6fb98de82c69f4ca5fc6d83764c3f94481cf0f895ddf7537653254e611978"
+    "pluginVT": "https://www.virustotal.com/gui/url/2aa7e21570b0a164c9c7895a0fb011a238d3a1561cd90767ae19640ade877cf9/details",
+    "pluginHash": "2aa7e21570b0a164c9c7895a0fb011a238d3a1561cd90767ae19640ade877cf9"
   }
